@@ -22,7 +22,7 @@ Primeiro repositório feito junto ao curso de **git e github**
 
 ### lista de tarefas
 - [x] Aprender markdown
-- [ ] Terminar curso de git
+- [x] Terminar curso de git
 
 ### tabela
 nome | idade 
